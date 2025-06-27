@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio! Here you'll find projects that showcase 
 - Created slicers and interactive charts to enhance usability
 
 Screenshot:  
-SuperStoreDashboard.png
+[SuperStoreDashboard.png](https://github.com/Zahid-Mal/superstore-excel-dashboard/blob/54ef9cfe636d47d4ebd82f32f43e75d81b932904/SuperStoreDashboard.png)
 ---
 
 ## 📈 [Upcoming] SQL Projects
