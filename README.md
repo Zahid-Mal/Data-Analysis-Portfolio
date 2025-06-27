@@ -17,8 +17,7 @@ Welcome to my data analytics portfolio! Here you'll find projects that showcase 
 - Created slicers and interactive charts to enhance usability
 
 Screenshot:  
-![Superstore Dashboard]([https://github.com/yourusername/superstore-excel-dashboard/blob/main/dashboard.png](https://cdn.discordapp.com/attachments/823343957106622527/1388184504316858531/Dashboard2.png?ex=68600f11&is=685ebd91&hm=62333a3b79e2801e2ae23a1d68dc0d34636b351c2d22996de8d876715ae671f1&))
-
+SuperStoreDashboard.png
 ---
 
 ## 📈 [Upcoming] SQL Projects
